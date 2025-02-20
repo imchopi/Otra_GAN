@@ -3,6 +3,12 @@
 ## Uso
 [Enlace](https://apf-segmentador-gan.streamlit.app/)
 
+## Resultado (tarda un poco en cargar cuando subas una imagen)
+<img src="./img/imagen_original.jpg">
+<img src="./img/mascara.jpg">
+<img src="./img/example1.png">
+
+
 ## Contexto histórico
 **Creador**: DeepLab fue desarrollado por Google Research.  
 **Cuándo se implementó**: La primera versión fue presentada en 2015 y ha evolucionado a lo largo de los años, con DeepLabV3 lanzado en 2017 y DeepLabV3+ en 2018.  
