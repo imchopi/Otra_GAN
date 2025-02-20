@@ -1,0 +1,6 @@
+torch
+streamlit
+Pillow
+torchvision
+requests
+tqdm
